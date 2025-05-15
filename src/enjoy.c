@@ -3,7 +3,12 @@
 
 void enjoy(int *pInt)
 {
-    printf("Enjoy!\n");
+    printf("Enjoy! %d\n", *pInt);
+}
+
+void enjoy2(int array[2])
+{
+    printf("Enjoy2! %d\n", array[0]);
 }
 
 void lol()
