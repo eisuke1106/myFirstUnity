@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "mock_enjoy.h": "c",
+        "stdio.h": "c",
+        "sub.h": "c",
+        "mock_sub.h": "c",
+        "fff_unity_helper.h": "c",
+        "mock_main.h": "c",
+        "fff.h": "c",
+        "test_sub.h": "c"
+    }
+}
